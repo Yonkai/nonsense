@@ -1,3 +1,5 @@
 For ideas.
 
 -generated map quiz app collection
+-Hangman
+-Shopify or really any store framework
