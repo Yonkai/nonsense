@@ -4,3 +4,4 @@ For ideas.
 -Hangman
 -Shopify or really any store framework
 -dog training application personalized
+-Code architecture SOLID demonstration
