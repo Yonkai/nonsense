@@ -5,3 +5,4 @@ For ideas.
 -Shopify or really any store framework
 -dog training application personalized
 -Code architecture SOLID demonstration
+-Aqarium tank suggestor
