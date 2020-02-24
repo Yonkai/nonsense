@@ -6,3 +6,5 @@ For ideas.
 -dog training application personalized
 -Code architecture SOLID demonstration
 -Aqarium tank suggestor
+-Daily programmer chart
+
