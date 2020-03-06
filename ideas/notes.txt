@@ -8,3 +8,4 @@ For ideas.
 -Aqarium tank suggestor
 -Daily programmer chart
 -infinite data combinator creator ('displays')
+-data visualizer meme
