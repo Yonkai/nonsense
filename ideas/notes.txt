@@ -10,3 +10,6 @@ For ideas.
 -infinite data combinator creator ('displays')
 -data visualizer meme
 -"codes" book self project
+-deli sorting algorthm
+-workout mobile android app clone
+-dog workout mobile android app clone
